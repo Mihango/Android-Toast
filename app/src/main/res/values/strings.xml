@@ -3,4 +3,5 @@
     <string name="custom">Custom</string>
     <string name="gravity">Gravity</string>
     <string name="normal">Normal</string>
+    <string name="snackbar">SnackBar</string>
 </resources>
